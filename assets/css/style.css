@@ -13,8 +13,9 @@ body {
   padding: 0;
   margin: 0;
 }
-.tos {
-  font-family: 'blackwood_castle';
+h1 {
+  font-family: 'blackwood_castle', serif;
+  font-size: 4rem;
+  letter-spacing: -.025em;
   color: #FFCC00;
-  font-size: 48px;
 }
