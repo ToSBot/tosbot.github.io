@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'bwc';
+  src: url("assets/fonts/bwc.eot");
+  font-weight: normal;
+  font-style: normal; 
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+.bwc {
+  font-family: 'bwc';
+}
