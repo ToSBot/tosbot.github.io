@@ -1,5 +1,5 @@
 @font-face {
-  font-family: '../fonts/blackwood_castle';
+  font-family: 'blackwood_castle';
   src: url('../fonts/blackwood_castle-webfont.eot');
   src: url('../fonts/blackwood_castle-webfont.eot?#iefix') format('embedded-opentype'),
        url('../fonts/blackwood_castle-webfont.woff2') format('woff2'),
@@ -14,6 +14,6 @@ body {
   margin: 0;
 }
 .tos {
-  font-family: 'blackwood_castleregular';
+  font-family: 'blackwood_castle';
   color: #FFCC00;
 }
