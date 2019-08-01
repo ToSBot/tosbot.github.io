@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya:700&display=swap');
 @font-face {
   font-family: 'blackwood_castle';
   src: url('../fonts/blackwood_castle-webfont.eot');
@@ -25,4 +26,14 @@ h1 {
   font-size: 4rem;
   letter-spacing: -.025em;
   color: #FFCC00;
+}
+h3 {
+  display: block;
+  padding: .125em 0;
+  font-family: 'Alegreya', Georgia, 'Times New Roman', Times, sans-serif;
+  font-size: .75rem;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  border-bottom: 1px solid #444;
 }
