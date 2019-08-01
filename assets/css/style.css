@@ -20,6 +20,8 @@ body {
   width: 100%;
   height: 100%;
   overflow-x: hidden;
+  font: normal 100%/1.67 'Alegreya', Georgia, 'Times New Roman', Times, sans-serif;
+  color: #bbb;
 }
 h1 {
   font-family: 'blackwood_castle', serif;
@@ -36,4 +38,16 @@ h3 {
   text-transform: uppercase;
   letter-spacing: .2em;
   border-bottom: 1px solid #444;
+}
+p {
+  margin-top: 1em;
+}
+header {
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  width: 100%;
+  height: 3.5rem;
+  background-color: #000;
+  box-shadow: 0 0 5rem 2.5rem #000;
 }
