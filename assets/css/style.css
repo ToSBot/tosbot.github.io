@@ -10,6 +10,9 @@
   font-weight: normal;
   font-style: normal;
 }
+html, body {
+  min-height: 100%;
+}
 body {
   text-align: center;
   background-image: url('../img/bg.jpg?');
