@@ -54,3 +54,13 @@ header {
   background-color: #000;
   box-shadow: 0 0 5rem 2.5rem #000;
 }
+footer {
+  float: left;
+  width: 100%;
+  margin-top: 5rem;
+  font-size: .75rem;
+  color: #777766;
+  text-align: left;
+  background: #000;
+  box-shadow: 0 0 5rem 2.5rem #000;
+}
